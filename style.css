@@ -1,0 +1,40 @@
+body
+{
+    background-color: grey;
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+    font-family: 'Times New Roman';
+}
+#kwadrat1
+{
+        width:200px;
+        height: 200px;
+        background-color: orange;
+        margin-left: 30px;
+        margin-top: 20px
+}
+#kwadrat2
+{
+        width:200px;
+        height: 200px;
+        background-color: orange;
+        margin-left: 30px;
+        margin-top: 20px
+}
+#kwadrat3
+{
+        width:200px;
+        height: 200px;
+        background-color: orange;
+        margin-left: 30px;
+        margin-top: 20px
+}
+#kwadrat4
+{
+        width:200px;
+        height: 200px;
+        background-color: orange;
+        margin-left: 30px;
+        margin-top: 20px
+}
